@@ -2,7 +2,7 @@ So colors of a Rainbow are: & UNICORN. & PONY & n1
 
 VIBGYOR
 
-myedit1
+b2 changes this as well.
 myedit2
 
 main branch edited
